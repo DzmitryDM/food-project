@@ -1,0 +1,35 @@
+img,
+iframe {
+	max-width: 100%;
+}
+
+iframe {
+	width: 600px;
+	height: 350px;
+}
+
+.recipeImg {
+	margin-top: 0.6rem;
+}
+
+.tableRecipe {
+	margin-bottom: 2rem;
+}
+
+h1 {
+	font-size: 40px;
+	margin: 0.7rem 0rem;
+}
+
+h3 {
+	font-size: 30px;
+}
+
+h4 {
+	font-size: 25px;
+	margin: 0.7rem 0rem 3rem 0rem;
+}
+
+h5 {
+	font-size: 19px;
+}

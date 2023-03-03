@@ -1,0 +1,19 @@
+.categoriesList {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(200px, auto));
+	column-gap: 1rem;
+}
+
+.card {
+	display: flex;
+	flex-direction: column;
+}
+
+.card .card-content {
+	flex-grow: 1;
+	padding: 1rem;
+}
+
+.card .card-action {
+	padding: 0.8rem;
+}

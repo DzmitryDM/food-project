@@ -1,0 +1,29 @@
+.goBack {
+   display: inline;
+   padding: 0.2rem 0rem 0.2rem 0rem;
+   cursor: pointer;
+}
+
+.row .col{
+display: flex;
+align-items: center;
+}
+
+
+.btn{
+margin-left: 0.5rem;
+}
+
+@media(max-width:768px) {
+   .row .col.s6 {
+      width: 70%;
+   }
+}
+
+@media(max-width:530px) {
+   .row .col.s6 {
+      width: 100%;
+   }
+}
+
+
