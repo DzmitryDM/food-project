@@ -6,7 +6,7 @@ function Header() {
 		<nav className=" #3f51b5 indigo header">
 			<div className="nav-wrapper ">
 				<a
-					href="#https://dzmitrydm.github.io/food-project"
+					href="https://github.com/DzmitryDM/food-project"
 					className="brand-logo"
 				>
 					Food
